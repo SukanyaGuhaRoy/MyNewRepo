@@ -1,1 +1,2 @@
 # MyNewRepo
+# This contains exercises
